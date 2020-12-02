@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://omar:omar@devconnector.aftvi.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken",
+  "gitClientId": "6085bb65e90800f0ae65",
+  "gitClientSecret": "4c62452a94c5885ce5cb9ad99f68f740454442fa"
+}
